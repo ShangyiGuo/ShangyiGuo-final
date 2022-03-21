@@ -22,7 +22,7 @@ experience:
         * Modelling
         * Deploying
   - title: Professor of Semiconductor Physics
-    company: University X
+    company: Controllable synthesis and performance test of high-mobility III-V nanowires
     company_url: ""
     company_logo: org-x
     location: California
