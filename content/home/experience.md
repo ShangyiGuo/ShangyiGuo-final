@@ -55,8 +55,3 @@ design:
       with regard to the III-V nanowires and participated weekly group meetings.
       •	Working on the project now with Postdoc and PhD students.
 ---
-![1]( "1")
-
-![2]( "2")
-
-![3]( "3")
