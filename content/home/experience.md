@@ -1,50 +1,42 @@
 ---
-# An instance of the Experience widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: experience
-
-# This file represents a page section.
-headless: true
-
-# Order that this section appears on the page.
-weight: 40
-
-title: Experience
-subtitle:
-
-# Date format for experience
-#   Refer to https://wowchemy.com/docs/customization/#date-format
 date_format: Jan 2006
-
-# Experiences.
-#   Add/remove as many `experience` items below as you like.
-#   Required fields are `title`, `company`, and `date_start`.
-#   Leave `date_end` empty if it's your current employer.
-#   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: CEO
     company: GenCoin
-    company_url: ''
+    company_url: ""
     company_logo: org-gc
     location: California
-    date_start: '2021-01-01'
-    date_end: ''
-    description: |2-
+    date_start: 2021-01-01
+    date_end: ""
+    description: |-2
         Responsibilities include:
         
         * Analysing
         * Modelling
         * Deploying
-        
   - title: Professor of Semiconductor Physics
     company: University X
-    company_url: ''
+    company_url: ""
     company_logo: org-x
     location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     description: Taught electronic engineering and researched semiconductor physics.
-
+widget_id: "Controllable synthesis and performance test of high-mobility III-V
+  nanowires              "
+headless: true
+weight: 40
+title: Experience
+subtitle: null
 design:
-  columns: '2'
+  columns: "2"
 ---
+## Controllable synthesis and performance test of high-mobility III-V nanowires              September 2021-present
+
+**Instructed by: Professor. Zai-xing Yang, School of Physics, SDU**
+
+* Synthesized n-channel nanowires (InP) with high electron mobility and p-channel nanowires (GaSb) with high hole mobility by controllable vapor-solid-solid growth mode of CVD.
+* Studied in electrical and photoelectric properties of III-V nanowires (GaSb, InP) by using Semiconductor Device Analyzer and probe station.
+* Read masses of papers with regard to the III-V nanowires and participated weekly group meetings.
+* Working on the project now with Postdoc and PhD students.
