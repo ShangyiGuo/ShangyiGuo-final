@@ -32,11 +32,3 @@ subtitle: null
 design:
   columns: "3"
 ---
-## Controllable synthesis and performance test of high-mobility III-V nanowires              September 2021-present
-
-**Instructed by: Professor. Zai-xing Yang, School of Physics, SDU**
-
-* Synthesized n-channel nanowires (InP) with high electron mobility and p-channel nanowires (GaSb) with high hole mobility by controllable vapor-solid-solid growth mode of CVD.
-* Studied in electrical and photoelectric properties of III-V nanowires (GaSb, InP) by using Semiconductor Device Analyzer and probe station.
-* Read masses of papers with regard to the III-V nanowires and participated weekly group meetings.
-* Working on the project now with Postdoc and PhD students.
