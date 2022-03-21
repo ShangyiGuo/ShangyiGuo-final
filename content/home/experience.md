@@ -30,7 +30,7 @@ weight: 40
 title: Experience
 subtitle: null
 design:
-  columns: "2"
+  columns: "3"
 ---
 ## Controllable synthesis and performance test of high-mobility III-V nanowires              September 2021-present
 
