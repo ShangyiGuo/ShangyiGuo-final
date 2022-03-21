@@ -1,8 +1,7 @@
 ---
 role: Undergraudate Researcher
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: ""
 interests:
   - Condensed Matter Physics
   - 2D Materials and Devices
