@@ -35,6 +35,3 @@ design:
     text_color_light: false
     color: ""
 ---
-```
-Controllable synthesis and performance test of high-mobility III-V nanowires
-```
