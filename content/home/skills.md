@@ -20,10 +20,8 @@ feature:
     icon_pack: fas
     name: Photography
 ---
-```
 
-```
 
 ![18]( "A+")
 
-![]()
+![A]( "20")
