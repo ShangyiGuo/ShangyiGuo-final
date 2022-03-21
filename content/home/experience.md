@@ -33,6 +33,8 @@ design:
   columns: "3"
   background:
     text_color_light: false
-    color: Controllable synthesis and performance test of high-mobility III-V
-      nanowires
+    color: ""
 ---
+```
+Controllable synthesis and performance test of high-mobility III-V nanowires
+```
